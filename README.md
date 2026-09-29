@@ -8,6 +8,14 @@ I use coding agents in my daily workflow, grounded in project documentation, iss
 
 Here I share personal projects, development tools, and my everyday setup.
 
+## Selected work
+
+**[Engineering portfolio](https://gertyhiler.github.io)** — selected engineering cases and notes.
+
+**[Portfolio source](https://github.com/gertyhiler/gertyhiler.github.io)** — a working example of how I structure Next.js applications, document architectural boundaries, and work with coding agents. Includes a Makefile runbook and GitHub Pages delivery.
+
+**[React Email Service](https://github.com/gertyhiler/react-mailer-service)** — an Express API for rendering HTML emails from React components, with template previews.
+
 ## Tools & setup
 
 - [Dotfiles](https://github.com/gertyhiler/dotfiles) — my terminal setup, organized by application and connected with manual symlinks.
