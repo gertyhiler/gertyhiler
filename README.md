@@ -1,22 +1,24 @@
 # Hi, I’m Andrew.
 
-I’m a software engineer with a strong frontend background. My work increasingly spans backend development, infrastructure, and the processes that take software from an idea to production.
+I’m a software engineer with a strong frontend background. My work increasingly spans backend development, infrastructure, and the processes that take software from an idea to production. My educational background is in information security.
 
-I’m currently deepening my skills in backend engineering and DevOps. My educational background is in information security.
+I build tools for my own work and share the useful parts: everyday utilities, reusable workflows for coding agents, and concrete examples of how I organize software.
 
-I use coding agents in my daily workflow, grounded in project documentation, issue tracking, code review, and verification.
+## Tools I use daily
 
-Here I share personal projects, development tools, and my everyday setup.
+- **[Projects](https://github.com/gertyhiler/projects)** — one terminal picker for Git repositories and worktrees across local and SSH machines.
+- **[lan-share](https://github.com/gertyhiler/lan-share)** — a browser-based chat for moving text and files between my laptops on a trusted local network.
+- **[Dotfiles](https://github.com/gertyhiler/dotfiles)** — my terminal setup, with flat application folders and manual symlinks, including my [Neovim configuration](https://github.com/gertyhiler/layzy-nvim).
 
-## Selected work
+## How I work
 
-**[Engineering portfolio](https://gertyhiler.github.io)** — selected engineering cases and notes.
+- **[Skills](https://github.com/gertyhiler/skills)** — personal engineering workflows for coding agents. Reusable procedures live in skills; project commands, environments, and decisions stay in the project's documentation.
+- **[Portfolio source](https://github.com/gertyhiler/gertyhiler.github.io)** — a Next.js example with Feature-Sliced Design, documented responsibilities, an agent workflow, a Makefile runbook, and GitHub Pages delivery.
+- **[Engineering portfolio](https://gertyhiler.github.io)** — selected cases and notes about problems I have worked on.
 
-**[Portfolio source](https://github.com/gertyhiler/gertyhiler.github.io)** — a working example of how I structure Next.js applications, document architectural boundaries, and work with coding agents. Includes a Makefile runbook and GitHub Pages delivery.
+## Other projects
 
-**[React Email Service](https://github.com/gertyhiler/react-mailer-service)** — an Express API for rendering HTML emails from React components, with template previews.
+- **[React Email Service](https://github.com/gertyhiler/react-mailer-service)** — React-based email templates, preview, and an HTTP rendering API.
+- **[aicommit](https://github.com/gertyhiler/aicommit)** — AI commit-message generation with provider adapters and LazyGit integration. I now use Codex for my own commits; this remains a standalone tool from that earlier workflow.
 
-## Tools & setup
-
-- [Dotfiles](https://github.com/gertyhiler/dotfiles) — my terminal setup, organized by application and connected with manual symlinks.
-- [Neovim](https://github.com/gertyhiler/layzy-nvim) — my configuration for reading, editing, and reviewing code.
+These projects have different levels of polish. I keep their scope and limitations explicit, and improve them as real work gives me a reason to.
